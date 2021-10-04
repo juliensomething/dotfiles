@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julien.chapelle@gmail.com
+	name = julien chapelle
